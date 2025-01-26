@@ -20,7 +20,7 @@ This project was created as part of the **iOS App Development** course for the *
    - Open `Minesweeper.xcodeproj` in Xcode to begin working with the project.
 
 ## How to Play
-- Tap on a cell to uncover it. 
+- Tap on a cell to uncover it.
 - Flag a cell by tapping and holding to indicate a potential mine.
 - The game ends when all safe cells are uncovered or if a mine is triggered.
 
@@ -29,4 +29,3 @@ Here’s a [YouTube video](https://www.youtube.com/watch?v=BqHR2MPtrRc) explaini
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
